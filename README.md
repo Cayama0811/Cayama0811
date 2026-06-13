@@ -9,6 +9,12 @@ Not so long ago i started with this of being a developer, on this small game cal
 
 If you want to talk to me you can send me a message to discord cayama0811/distantfriend14.
 
+## What ive done
+
+- Modded for the Source Engine (Half-Life 2, JBMod, GMod, Team Fortress, Counter Strike and others)
+- Modded for GTA 3 (just once)
+- Made some other stuff that i dont really remember
+
 ## Links
 
 - https://steamcommunity.com/id/cayama0811/

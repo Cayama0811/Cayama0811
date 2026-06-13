@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there, i am Cayama0811 and i code funny games and shitty software, im still a beginner.
 
-<!--
-**Cayama0811/Cayama0811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not so long ago i started with this of being a developer, on this small game called JBMod, since then i just kept going.
 
-Here are some ideas to get you started:
+- Im working on my on standalone game.
+- I have a wiki for JBMod scripting in the works
+- Im learning alotta stuff
+- Just trying to leave something before i die.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you want to talk to me you can send me a message to discord cayama0811/distantfriend14.
+
+## Links
+
+- https://steamcommunity.com/id/cayama0811/
+- https://cayama0811.itch.io/
+- https://www.youtube.com/channel/UCvWTUlf6V53mW4kAv3Hxlow
+- https://github.com/Cayama0811
+
+Enjoy my stuff.
